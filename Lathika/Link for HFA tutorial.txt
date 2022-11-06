@@ -1,1 +1,5 @@
 https://www.youtube.com/playlist?list=PLtq84kH8xZ9Gz-1_VvqWsWeGwzMnKjRwY
+
+
+pdf:- 
+http://rfic.eecs.berkeley.edu/142/labs/amplab.pdf
